@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lionel-lynch
 - 👀 I’m interested in frontend-development
-- 🌱 I’m currently learning JS, React
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on frontend
 - 📫 How to reach me ...
 
